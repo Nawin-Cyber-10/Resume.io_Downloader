@@ -1,0 +1,8 @@
+streamlit
+pillow
+pytesseract
+requests
+pypdf
+PyMuPDF
+Py2PDF
+aiohttp
