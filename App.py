@@ -14,7 +14,7 @@ import pytesseract
 import fitz  # PyMuPDF
 
 # Configure Tesseract
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'./tesseract.exe'
 
 class Extension(str, Enum):
     jpeg = "jpeg"
